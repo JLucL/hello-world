@@ -1,3 +1,3 @@
 # hello-world
 
-Quelques infos complémentaires
+Quelques infos complémentaires !
